@@ -32,10 +32,10 @@ spring:
       max-request-size: 512000
   data:
     mongodb:
-      uri: mongodb://root:zjm2002.@8.134.147.252:27017
+      uri: 
       database: online-news
 fdfs:
   connect-timeout: 5000
   so-timeout: 5000
-  tracker-list: 8.134.147.252:22122
+  tracker-list: 
 
