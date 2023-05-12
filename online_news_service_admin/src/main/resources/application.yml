@@ -28,7 +28,7 @@ spring:
       connection-test-query: SELECT 1
   data:
     mongodb:
-      uri: mongodb://root:zjm2002.@8.134.147.252:27017
+      uri: 
       database: online-news
 mybatis:
   type-aliases-package: com.example.pojo  # pojo类路径
