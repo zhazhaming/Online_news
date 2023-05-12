@@ -1,0 +1,9 @@
+# Project exclude paths
+/mybatis-generator-database/target/
+/online_news_common/target/
+/online_news_files/target/
+/online_news_model/target/
+/online_news_service_admin/target/
+/online_news_service_api/target/
+/online_news_service_article/target/
+/online_news_service_user/target/
